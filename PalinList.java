@@ -84,7 +84,8 @@ match. To ensure the original queue and stack stay as they were, clones were mad
 	}
 
 /**
-two-string method to print the queue And if it's a palindromebased off of the results from isPalin() method
+to-string method to print the queue And if it's a palindromebased off of the results from isPalin() method
+@return a string of the queue and if it is a palindrome
 */
     public String toString(){
         String results = " ";
