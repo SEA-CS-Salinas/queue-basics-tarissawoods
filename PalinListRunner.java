@@ -11,6 +11,9 @@
 		
 		System.out.println(bum);
 		System.out.println(gum);
+		System.out.println(dum);
+		System.out.println(jum);
+		System.out.println(mum);
 		System.out.println(num);
 	}
 }
